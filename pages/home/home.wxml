@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+<button size="mini">提交</button>
+<text class="title">This page is test</text>
